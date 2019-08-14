@@ -323,7 +323,7 @@
     })
   });
   var G = e.hasClass("is-rtl") ? "../../images" : "../images";
-  e.append('<div class="promo-content"><a href="#" class="promo-close"><em class="ti ti-close"></em></a><a target="_blank" href="http://bit.ly/2UzfJv2" class="promo-content-wrap"><div class="promo-content-img"><img src="' + G + '/demo/promo-large.jpg" alt="TokenLite"></div><div class="promo-content-text"><h5>Are you looking for <br><span>Functional System</span> <br> for your ICO token sale?</h5><p>Check out TokenLite <br> on CodeCanyon!</p></div></a></div><a target="_blank" href="http://bit.ly/2UzfJv2" class="promo-trigger"><div class="promo-trigger-img"><img src="' + G + '/demo/promo-small.png" alt="TokenWiz"></div><div class="promo-trigger-text">Looking for Functional<br>ICO/STO Dashboard?</div></a>');
+  e.append('#');
   var R = a(".promo-trigger"),
     N = a(".promo-content"),
     U = a(".promo-close");
